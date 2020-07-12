@@ -1,3 +1,1 @@
-# git-exercise
-
-This is my second test!
+New messages to test!
